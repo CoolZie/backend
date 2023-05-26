@@ -1,0 +1,76 @@
+{
+  "demandes": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "typicode",
+      "motifId": 1,
+      "demandeurId": 1,
+      "dateDemande": null,
+      "dateValidation": null,
+      "statut": 1,
+      "validerPar": 1
+    },
+    {
+      "id": 2,
+      "title": "Demande 2",
+      "description": "Description ",
+      "motifId": 1,
+      "demandeurId": 2,
+      "dateValidation": null,
+      "statut": 1,
+      "validerPar": 1
+    },
+    {
+      "id": 3,
+      "title": "Demande 2",
+      "description": "Description ",
+      "motifId": 1,
+      "demandeurId": 2,
+      "dateValidation": null,
+      "statut": 1,
+      "validerPar": 1
+    },
+    {
+      "title": "Demande 3",
+      "description": "Description ",
+      "motifId": 1,
+      "demandeurId": 2,
+      "dateValidation": null,
+      "statut": 1,
+      "validerPar": 1,
+      "id": 4
+    },
+    {
+      "title": "Demande 3",
+      "description": "Description ",
+      "motifId": 1,
+      "demandeurId": 2,
+      "dateValidation": null,
+      "statut": 1,
+      "validerPar": 1,
+      "createdAt": 1684863341996,
+      "id": 5
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "nom": "some comment",
+      "prenoms": "",
+      "matricule": null,
+      "isManager": 0,
+      "email":"test1@test.com",
+      "password":"1234"
+    },
+    {
+      "id": 2,
+      "nom": "some one",
+      "prenoms": "",
+      "matricule": null,
+      "isManager": 1,
+      "email":"test@test.com",
+      "password":"1234"
+    }
+  ]
+}
